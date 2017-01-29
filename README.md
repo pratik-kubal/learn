@@ -33,7 +33,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 - [ ] [Javascript](https://www.javascript.com/)
   - [ ] [Jquery](https://jquery.com/)
-  - [ ] [Angular](https://angularjs.org/)
+  - [x] [Angular](https://angularjs.org/)
+  - [ ] [Angular2](https://angularjs.org/)
   - [ ] [React](https://facebook.github.io/react/)
   - [ ] [Ember](http://emberjs.com/)
   - [ ] [Backbone](http://backbonejs.org/)
@@ -77,7 +78,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [scikit-learn](http://scikit-learn.org/)
 - [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
 - [ ] [Web2Py](http://www.web2py.com/)
-- [ ] [Django](https://www.djangoproject.com/)
+- [x] [Django](https://www.djangoproject.com/)
 - [ ] [Flask](http://flask.pocoo.org/)
 - [ ] [Pyramid](http://www.pylonsproject.org/)
 - [ ] [Scapy](http://www.secdev.org/projects/scapy/doc/introduction.html)
@@ -104,8 +105,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Theano](https://github.com/Theano/Theano)
   - [ ] [TensorFlow](https://www.tensorflow.org/)
   - [ ] [APIs] (https://www.codecademy.com/en/tracks/npr)
-  - [x] [Natural Language Processing] (http://www.nltk.org/)
-  - [x] Extended Backus-Naur Form (EBNF)
+  - [ ] [Natural Language Processing] (http://www.nltk.org/)
+  - [ ] Extended Backus-Naur Form (EBNF)
 
 ## Theory
 
@@ -129,7 +130,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [IOT DIY projects](http://www.instructables.com/)
 - [ ] [Arduino](https://www.arduino.cc/)
 - [ ] [ESP8266](http://www.esp8266.com/)
-- [x] [Raspberry Pi](https://www.raspberrypi.org/)
+- [ ] [Raspberry Pi](https://www.raspberrypi.org/)
 
 ## CMS (content management system )
 
