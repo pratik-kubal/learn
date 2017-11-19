@@ -3,6 +3,14 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 # The List
 
+## ML Foundation
+
+  - [ ] [Statistics 101 - Udacity](https://in.udacity.com/course/intro-to-statistics--st101)
+  - [ ] [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
+  - [ ] [MIT Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+  - [ ] [MIT Multi Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/#)
+  - [ ] [Stanford Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
+
 ## Tools
 
 - [ ] [Pyenv](https://github.com/yyuu/pyenv)
@@ -32,8 +40,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ## "Programming" Languages
 
 - [ ] [Javascript](https://www.javascript.com/)
-  - [x] [Jquery](https://jquery.com/)
-  - [x] [Angular](https://angularjs.org/)
+  - [ ] [Jquery](https://jquery.com/)
+  - [ ] [Angular](https://angularjs.org/)
   - [ ] [Angular2](https://angularjs.org/)
   - [ ] [React](https://facebook.github.io/react/)
   - [ ] [Ember](http://emberjs.com/)
@@ -51,7 +59,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [C#](https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
-- [x] [SCSS](http://sass-lang.com/)
+- [ ] [SCSS](http://sass-lang.com/)
 - [ ] [Java](http://www.tutorialspoint.com/java/)
 - [ ] [Elixir](http://elixir-lang.org/)
   - [ ] [Phoenix Framework](http://www.phoenixframework.org/)
@@ -63,11 +71,12 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Haskell](https://www.haskell.org/)
 - [ ] [Scala](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 - [ ] [Clojure](http://clojure-doc.org/articles/tutorials/getting_started.html)
-- [ ] [R](https://www.coursera.org/learn/r-programming/)
+- [x] [R](https://www.coursera.org/learn/r-programming/)
 - [ ] [Nim](http://nim-lang.org/)
 
 ### Python
 
+- [ ] [Main](https://www.udemy.com/complete-python-bootcamp/)
 - [ ] [Itertools](https://docs.python.org/3/library/itertools.html)
 - [ ] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
 - [ ] [Numpy](http://www.numpy.org/)
@@ -76,7 +85,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [scikit-learn](http://scikit-learn.org/)
 - [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
 - [ ] [Web2Py](http://www.web2py.com/)
-- [x] [Django](https://www.djangoproject.com/)
+- [ ] [Django](https://www.djangoproject.com/)
 - [ ] [Flask](http://flask.pocoo.org/)
 - [ ] [Pyramid](http://www.pylonsproject.org/)
 - [ ] [Scapy](http://www.secdev.org/projects/scapy/doc/introduction.html)
@@ -84,7 +93,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ## Machine Learning
 - [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)
   - [ ] [Linear Classifiers](https://en.wikipedia.org/wiki/Linear_classifier)
-  - [x] [Bayesian Modelling](https://en.wikipedia.org/wiki/Bayesian_network)
+  - [ ] [Bayesian Modelling](https://en.wikipedia.org/wiki/Bayesian_network)
   - [x] [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
   - [x] [Regression](https://www.coursera.org/learn/ml-regression)
   - [x] [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
@@ -93,16 +102,16 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Convolution Neural Networks](http://cs231n.github.io/neural-networks-case-study/)
   - [ ] [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
   - [ ] [Deep Networks](https://en.wikipedia.org/wiki/Deep_learning)
-  - [x] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
+  - [ ] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
   - [ ] [Bidirectional Associative Memory](https://en.wikipedia.org/wiki/Bidirectional_associative_memory)
   - [ ] [Long Short Time Memory](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [ ] [Hopfield Network](https://en.wikipedia.org/wiki/Hopfield_network)
-  - [x] [Gaussian Mixture Models](http://scikit-learn.org/stable/modules/mixture.html)
+  - [ ] [Gaussian Mixture Models](http://scikit-learn.org/stable/modules/mixture.html)
 - [ ] Frameworks and Tools
   - [ ] [Torch](http://torch.ch/)
   - [ ] [Theano](https://github.com/Theano/Theano)
   - [ ] [TensorFlow](https://www.tensorflow.org/)
-  - [x] [APIs](https://www.codecademy.com/en/tracks/npr)
+  - [ ] [APIs](https://www.codecademy.com/en/tracks/npr)
   - [ ] [Natural Language Processing](http://www.nltk.org/)
   - [ ] Extended Backus-Naur Form (EBNF)
 
@@ -132,7 +141,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## CMS (content management system )
 
-- [ ] [Wordpress CMS](https://wordpress.org/download/)
+- [x] [Wordpress CMS](https://wordpress.org/download/)
 - [ ] [October CMS](https://octobercms.com/docs/cms/themes)
 - [ ] [Joomla](https://www.joomla.org/)
 - [ ] [Drupal](https://www.drupal.org/)
